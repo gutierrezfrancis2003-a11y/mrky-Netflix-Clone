@@ -24,6 +24,7 @@
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true,
     "noUncheckedSideEffectImports": true,
+    "forceConsistentCasingInFileNames": true,
 
     "baseUrl": "src",
     "paths": {
@@ -31,4 +32,5 @@
     }
   },
   "include": ["src"]
+  
 }

@@ -6,9 +6,9 @@ import { Counter } from "$/components/counter";
 
 export function App() {
     const readDoccs = new Intl.ListFormat("en", {
-      style: "long",
-      type: "disjunction",
-    }).format(["vite", "jsx / tsx", "alpinejs", "kitajs"]);
+  style: "long",
+  type: "disjunction",
+}).format(["vite", "jsx / tsx", "alpinejs", "kitajs"]);
 
   return (
     <div>
