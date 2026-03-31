@@ -28,7 +28,7 @@ export function App() {
       <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
         <img src={kitaLogo} class="logo" alt="Kitajs HTML logo" />
       </a>
-      <h1>ViTA aka Vite + TSX + Alpine.js</h1>
+      <h1>Netflix</h1>
       <div class="card">
         <Counter />
       </div>
